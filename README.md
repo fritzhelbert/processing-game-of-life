@@ -1,5 +1,5 @@
 ## Processing - Conway's Game of Life
-Implementation of Conway's Game of Life in Processing.
+Implementation of Conway's Game of Life written in Processing.
 
 ## Description from Wikipedia
 >The Game of Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.
