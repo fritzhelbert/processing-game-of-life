@@ -1,0 +1,11 @@
+color black = color(0);
+color grey10 = color(25, 25, 25);
+color grey20 = color(51, 51, 51);
+color grey30 = color(76, 76, 76);
+color grey40 = color(102, 102, 102);
+color grey50 = color(127, 127, 127);
+color grey60 = color(153, 153, 153);
+color grey70 = color(178, 178, 178);
+color grey80 = color(204, 204, 204);
+color grey90 = color(229, 229, 229);
+color white = color(255, 255, 255);
